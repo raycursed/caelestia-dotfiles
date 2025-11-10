@@ -15,7 +15,7 @@ cp -r ~/caelestia-dotfiles/* ~/.config/hypr/
 hyprctl reload
 ```
 
-##Keybinds
+## Keybinds
 Super + Enter                  -> Terminal (foot)
 Super + W                      -> Browser (zen-browser)
 
