@@ -24,4 +24,4 @@ Super + Space                  -> Special workspace
 
 Super + Shift + 1,2,3,4...0    -> Move window to workspace
 
-Super + Shift + Space          -> Move window to Special workspace
+Super + Shift + Up/Down          -> Move window to/from Special workspace
